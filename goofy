@@ -1,0 +1,2 @@
+for silly(goofy):
+  print("silly, " + goofy)
